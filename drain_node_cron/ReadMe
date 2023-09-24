@@ -1,0 +1,18 @@
+這個shell是為了節省drain node的時間 
+只會負責drain掉有問題的node 
+執行main.sh後代入參數後即可 可以一次帶入多個環境
+
+ex:
+./main.sh vd008 vd009 pp001
+
+參數填入選項:
+uat
+vd001
+vd002
+vd003
+vd004
+vd006
+vd007
+vd008
+vd009
+pp001
